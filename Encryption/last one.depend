@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1585766202 source:d:\electrical programs\codeblocks\last one\main.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1583504690 d:\electrical programs\codeblocks\last one\std_types.h
+
+1583505354 d:\electrical programs\codeblocks\last one\aes_priv.h
+
+1584387486 d:\electrical programs\codeblocks\last one\aes_int.h
+
+1585766235 source:d:\electrical programs\codeblocks\last one\aes_decryption.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1585766234 source:d:\electrical programs\codeblocks\last one\aes_encryption.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1584389539 source:d:\electrical programs\codeblocks\last one\aes_configration.c
+	"std_types.h"
+
+1586340421 source:d:\electrical programs\codeblocks\last one me\aes_configration.c
+	"std_types.h"
+
+1586261330 d:\electrical programs\codeblocks\last one me\std_types.h
+
+1586544513 source:d:\electrical programs\codeblocks\last one me\aes_decryption.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1586339705 d:\electrical programs\codeblocks\last one me\aes_priv.h
+
+1586544513 d:\electrical programs\codeblocks\last one me\aes_int.h
+
+1586545593 source:d:\electrical programs\codeblocks\last one me\aes_encryption.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1586544513 source:d:\electrical programs\codeblocks\last one me\main.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1586544513 source:c:\users\dell\desktop\last one me\main.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1586261330 c:\users\dell\desktop\last one me\std_types.h
+
+1586633287 c:\users\dell\desktop\last one me\aes_priv.h
+
+1586633065 c:\users\dell\desktop\last one me\aes_int.h
+
+1586634574 source:d:\electrical programs\last one me\aes_configration.c
+	"std_types.h"
+
+1586261330 d:\electrical programs\last one me\std_types.h
+
+1586854294 source:d:\electrical programs\last one me\aes_encryption.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1586854147 d:\electrical programs\last one me\aes_priv.h
+
+1586854001 d:\electrical programs\last one me\aes_int.h
+
+1586854315 source:d:\electrical programs\last one me\main.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
+1586854099 source:d:\electrical programs\last one me\aes_decryption.c
+	"std_types.h"
+	"AES_priv.h"
+	"AES_int.h"
+
