@@ -1,0 +1,4 @@
+ULTRASONIC_DRIVER:
+ Works by using edge trigger timing mode in tiva c (inpute capture unit like in AVR) is used by waiting for the echo by waiting for a rising
+ edge then waiting for a falling edge and get the diffrence in time vetween both times captured 
+ With a linear relation as the diffrence increase lineary the distance indecates the increase in distance 
